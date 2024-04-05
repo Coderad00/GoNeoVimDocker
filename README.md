@@ -1,6 +1,6 @@
 ### Setup
 - To build the Image cd in the Dir and run: <docker build -t <imagename> .>
-- To Run the Container: <docker run -it <imageID>
+- To Run the Container: <docker run -it <imageID> >
 ### Shortcuts NeoVim
 | Aktion                                     | Tastenkombination            |
 |--------------------------------------------|------------------------------|
