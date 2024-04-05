@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","primary_source":{"id":"pkg:npm\/graphql-language-service-cli@3.3.33","type":"registry+v1"},"metrics":{"start_time":1712134876783,"completion_time":1712134892446},"name":"graphql-language-service-cli","links":{"share":{},"opt":{},"bin":{"graphql-lsp":"node_modules\/.bin\/graphql-lsp"}}}

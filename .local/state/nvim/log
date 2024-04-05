@@ -1,0 +1,21 @@
+ERR 2024-03-28T11:56:40.302 nvim.21596.0 decor_provider_invoke:47: error in provider treesitter/highlighter:line: Error executing lua: ...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: Invalid 'col': out of range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: in function 'fn'
+	...r/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:345: in function 'for_each_tree'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:214: in function 'on_line_impl'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:290: in function <...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:284>
+ERR 2024-03-28T11:56:56.476 nvim.21596.0 decor_provider_invoke:47: error in provider treesitter/highlighter:line: Error executing lua: ...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: Invalid 'col': out of range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: in function 'fn'
+	...r/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:345: in function 'for_each_tree'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:214: in function 'on_line_impl'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:290: in function <...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:284>
+ERR 2024-03-28T12:20:38.088 nvim.25302.0 decor_provider_invoke:47: error in provider treesitter/highlighter:line: Error executing lua: ...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: Invalid 'col': out of range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:263: in function 'fn'
+	...r/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:345: in function 'for_each_tree'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:214: in function 'on_line_impl'
+	...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:290: in function <...sr/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:284>

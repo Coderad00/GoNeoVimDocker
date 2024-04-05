@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/coderad/.config/nvim'
+let g:netrw_dirhist_7='/home/coderad/.config'
+let g:netrw_dirhist_6='/home/coderad/.config/nvim'
+let g:netrw_dirhist_5='/home/coderad/.config/nvim/lua/naboo'
+let g:netrw_dirhist_4='/home/coderad/.config/nvim/lua/naboo/plugins'
+let g:netrw_dirhist_3='/home/coderad/.config/nvim/lua/naboo'
+let g:netrw_dirhist_2='/home/coderad/.config/nvim/lua'
+let g:netrw_dirhist_1='/home/coderad/.config/nvim/lua/naboo'
+let g:netrw_dirhist_0='/home/coderad/.config'
+let g:netrw_dirhist_9='/home/coderad'
